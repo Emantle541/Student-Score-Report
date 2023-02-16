@@ -1,0 +1,4 @@
+Number of Students: 50
+Average Grade: %73.44
+Average Highest Grade: %93.59
+Average Lowest Grade: %54.66
